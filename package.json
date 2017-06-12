@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/light-bringer/cloud-handler/issues"
   },
-  "homepage": "https://github.com/light-bringer/cloud-handler#readme"
+  "homepage": "https://github.com/light-bringer/cloud-handler#readme",
+  "dependencies": {
+    "dropbox": "^2.5.4"
+  }
 }
