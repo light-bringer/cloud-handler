@@ -1,0 +1,22 @@
+{
+  "name": "cloud-handler",
+  "version": "1.0.0",
+  "description": "Cloud Factory REST API to handle different storage engines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/light-bringer/cloud-handler.git"
+  },
+  "keywords": [
+    "Dropbox"
+  ],
+  "author": "@light-bringer The Promised Prince <debapriya.das.blr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/light-bringer/cloud-handler/issues"
+  },
+  "homepage": "https://github.com/light-bringer/cloud-handler#readme"
+}
